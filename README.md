@@ -5,5 +5,6 @@ landing page diseñada a píxel perfect. Utilicé solo HTML y CSS, asegurándome
 
 <img src="https://github.com/ingMarcosOrtiz/Nucleus/assets/19525887/d25071e5-e3ae-48cf-bc1d-8ba3e0039931" width="50" height="50" alt="css-3">
 
+<img src="https://github.com/ingMarcosOrtiz/Nucleus/assets/19525887/87725815-c18c-4de9-bbfc-b736b521b84c" width="50" height="50" alt="css-3">
 
 ![nucleus](https://github.com/ingMarcosOrtiz/Nucleus/assets/19525887/e003dfe5-4ca8-48a1-8397-7d2ad5d9411f)
