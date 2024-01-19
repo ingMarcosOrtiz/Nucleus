@@ -1,6 +1,4 @@
 # Nucleus
-landing page - Nucleus 
-<br/>
 landing page creada con Css y Html
 <br/>
 <a href="https://graceful-dusk-02c499.netlify.app/">Ver Demo</a>
