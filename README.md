@@ -1,5 +1,5 @@
 # Nucleus
-Maquetacion web - Nucleus 
+Maquetación web - Nucleus 
 <br/>
 landing page creada con Css y Html
 <br/>
